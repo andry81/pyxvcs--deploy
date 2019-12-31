@@ -1,0 +1,5 @@
+SVN.WCROOT_DIR:             sf~svn~pyxvcs
+GIT.WCROOT_DIR:             gh~git~pyxvcs
+GIT2.WCROOT_DIR:            bb~git~pyxvcs
+
+SVN.CHECKOUT_URL:           ${PYXVCS.SVN.REPOROOT}/trunk
