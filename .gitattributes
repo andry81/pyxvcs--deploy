@@ -1,15 +1,15 @@
 * text=auto !eol
-projects/__init__.bat -text
-projects/config.vars.in -text
-projects/config.yaml.in -text
-projects/configure.bat -text
-projects/deploy/__init__.bat -text
-projects/deploy/config.vars.in -text
-projects/deploy/config.yaml.in -text
-projects/deploy/configure.bat -text
-projects/deploy/git_repos.lst.in -text
 projects/pyxvcs/__init__.bat -text
 projects/pyxvcs/config.vars.in -text
 projects/pyxvcs/config.yaml.in -text
 projects/pyxvcs/configure.bat -text
-projects/pyxvcs/git_repos.lst.in -text
+projects/pyxvcs/deploy/__init__.bat -text
+projects/pyxvcs/deploy/config.vars.in -text
+projects/pyxvcs/deploy/config.yaml.in -text
+projects/pyxvcs/deploy/configure.bat -text
+projects/pyxvcs/deploy/git_repos.lst.in -text
+projects/pyxvcs/pyxvcs/__init__.bat -text
+projects/pyxvcs/pyxvcs/config.vars.in -text
+projects/pyxvcs/pyxvcs/config.yaml.in -text
+projects/pyxvcs/pyxvcs/configure.bat -text
+projects/pyxvcs/pyxvcs/git_repos.lst.in -text
