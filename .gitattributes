@@ -1,9 +1,6 @@
 * text=auto !eol
-projects/pyxvcs/config.vars.in -text
 projects/pyxvcs/config.yaml.in -text
-projects/pyxvcs/deploy/config.vars.in -text
 projects/pyxvcs/deploy/config.yaml.in -text
 projects/pyxvcs/deploy/git_repos.lst.in -text
-projects/pyxvcs/pyxvcs/config.vars.in -text
 projects/pyxvcs/pyxvcs/config.yaml.in -text
 projects/pyxvcs/pyxvcs/git_repos.lst.in -text
